@@ -6,4 +6,5 @@ upload to the github.
 Creating a new branch(dev) is quick.
 Creating a new branch(dev) by using git sitch -c dev
 Creating a new branch is quick AND simple 解决冲突测试.
+尝试用--no-ff方式的git merge来得到分支信息.
 
